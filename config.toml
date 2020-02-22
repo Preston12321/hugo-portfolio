@@ -1,0 +1,38 @@
+baseURL = "https://prestonlocke.net/"
+languageCode = "en-us"
+title = "Portfolio - Preston Locke"
+theme = "Resume"
+# canonifyURLs = true
+
+[params]
+address = "Millsap, TX"
+email = "locke_preston@yahoo.com"
+favicon = "/favicon.ico"
+firstName = "Preston"
+lastName = "Locke"
+phone = "1-940-745-8460"
+profileImage = "img/avatar.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/preston-locke-3904ba143"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Preston12321/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://keybase.io/preston12321"
+name = "Keybase"
+
+[[params.handles]]
+link = "documents/Resume.pdf"
+name = "Resume"
+icon = "fa fa-file-alt"

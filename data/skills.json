@@ -1,0 +1,43 @@
+[
+    {
+        "grouping": "Languages",
+        "skills": [
+            "C++",
+            "C",
+            "Dart",
+            "x86 Assembly",
+            "Java",
+            "Python",
+            "JavaScript",
+            "TypeScript"
+        ]
+    },
+    {
+        "grouping": "Frameworks",
+        "skills": [
+            "Flutter",
+            "Firebase",
+            "Qt",
+            "Android"
+        ]
+    },
+    {
+        "grouping": "Operating Systems & Tools",
+        "skills": [
+            "Linux",
+            "Windows",
+            "Git",
+            "GDB",
+            "Makefile"
+        ]
+    },
+    {
+        "grouping": "Programming Concepts",
+        "skills": [
+            "Data Structures",
+            "Algorithms",
+            "Object Oriented Programming",
+            "Finite-State Automata"
+        ]
+    }
+]
