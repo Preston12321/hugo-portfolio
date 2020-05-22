@@ -6,7 +6,7 @@ theme = "Resume"
 
 [params]
 address = "Millsap, TX"
-email = "locke_preston@yahoo.com"
+email = "plocke@macalester.edu"
 favicon = "/favicon.ico"
 firstName = "Preston"
 lastName = "Locke"
