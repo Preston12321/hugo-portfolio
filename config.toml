@@ -5,7 +5,7 @@ theme = "Resume"
 # canonifyURLs = true
 
 [params]
-address = "Millsap, TX"
+address = "Saint Paul, MN"
 email = "plocke@macalester.edu"
 favicon = "/favicon.ico"
 firstName = "Preston"
