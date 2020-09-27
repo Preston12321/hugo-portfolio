@@ -6,6 +6,6 @@ sitemap:
 draft: true
 ---
 
-2<sup>nd</sup> year Computer Science student with 8 years of multi-disciplinary experience. I love
-learning new things, and my wide breadth of knowledge coupled with an extensive depth of experience
-with low-level systems and high-level computing concepts would serve any task and any team well.
+3<sup>rd</sup> year Computer Science student with 8 years of multi-disciplinary experience. I love
+learning new things, and as a result, I have a wide breadth of knowledge and experience that would
+serve any task and any team well.

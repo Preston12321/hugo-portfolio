@@ -14,14 +14,14 @@ phone = "1-940-745-8460"
 profileImage = "img/avatar.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = true
+showCollaborations = true
 showProjects = true
 showPublications = false
 showQr = true
 showSkills = true
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/preston-locke-3904ba143"
+link = "https://www.linkedin.com/in/preston-locke"
 name = "LinkedIn"
 
 [[params.handles]]

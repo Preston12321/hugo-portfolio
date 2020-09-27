@@ -1,5 +1,5 @@
 ---
-title: Contributions
+title: Collaborations
 date: 2020-01-07T16:49:15.046Z
 link: NA
 description: NA
@@ -12,7 +12,7 @@ sitemap:
 ---
 <!--
 
-This page represents the landing page for "contributions" section. It is also shown under the homepage header for "contributions". It should be therefore relatively short and sweet.
+This page represents the landing page for "collaborations" section. It is also shown under the homepage header for "collaborations". It should be therefore relatively short and sweet.
 
 -->
 

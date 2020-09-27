@@ -7,7 +7,7 @@ sitemap:
 
 This page represents the landing page for "projects" section. It is also shown under the homepage header for "projects". It should be therefore relatively short and sweet.
 
-IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
+IN the dfault theme, "projects" is divided among "creations" you authored and "collaborations" made to others projects.
 
 -->
-<p>This section contains projects which I have <a href="/projects/creations">created</a> and to which I have <a href="/projects/contributions">contributed</a>.</p>
+<p>This section contains projects which I have <a href="/projects/creations">created</a> and to which I have <a href="/projects/collaborations">contributed</a>.</p>

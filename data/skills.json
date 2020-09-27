@@ -4,21 +4,21 @@
         "skills": [
             "C++",
             "C",
-            "Dart",
-            "x86 Assembly",
-            "Java",
             "Python",
             "JavaScript",
-            "TypeScript"
+            "Java",
+            "Dart",
+            "TypeScript",
+            "x86 Assembly"
         ]
     },
     {
         "grouping": "Frameworks",
         "skills": [
-            "Flutter",
-            "Firebase",
             "Qt",
-            "Android"
+            "Android",
+            "Firebase",
+            "Flutter"
         ]
     },
     {
@@ -27,6 +27,7 @@
             "Linux",
             "Windows",
             "Git",
+            "Bash",
             "GDB",
             "Makefile"
         ]
