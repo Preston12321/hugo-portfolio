@@ -2,7 +2,8 @@
 title: "PotLuck"
 date: 2020-02-16T11:17:57-06:00
 featured: true
-description: "Delegated development tasks, researched and recommended technologies, and designed mobile and cloud architecture."
+# description: "Delegated development tasks, researched and recommended technologies, and designed mobile and cloud architecture."
+description: "<ul><li>Used Flutter, a Node.js backend, a Firestore NoSQL database, and a JSON-based REST API to create a social ingredient-tracking recipe search app</li><li>Coordinated the Agile development tasks of the team throughout the semester</li><li>Designed an application architecture that left room for redesign, scalability, and future additions</li></ul>"
 tags: ["Flutter", "Firebase", "Dart", "Mobile", "Cloud", "Architecture"]
 image: "img/potluck.png"
 link: "https://github.com/mariecrane/PotLuck"

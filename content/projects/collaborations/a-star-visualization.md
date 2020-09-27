@@ -2,7 +2,8 @@
 title: "A* Algorithm Visualization"
 date: 2020-02-16T11:27:38-06:00
 featured: true
-description: "Helped design and implement a Python-based visualization of the A* pathfinding algorithm."
+# description: "Helped design and implement a Python-based visualization of the A* pathfinding algorithm."
+description: "<ul><li>Used Python to create a cell-based step-by-step visualization of the A* Algorithm</li><li>Collaborated with group members to implement drawable obstacles and run/clear buttons</li></ul>"
 tags: ["Python","Algorithms","Pygame"]
 image: "img/a-star-visualization.png"
 link: "https://github.com/Preston12321/pathfinding"

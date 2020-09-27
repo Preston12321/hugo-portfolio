@@ -2,7 +2,8 @@
 title: "Password Manager"
 date: 2020-09-18T13:23:18-05:00
 featured: true
-description: "Created a password manager with a unique audio mechanism for password strenth feedback."
+# description: "Created a password manager with a unique audio mechanism for password strenth feedback."
+description: "<ul><li>Used Qt C++ to create a password manager with an auditory mechanism for password strength feedback</li><li>Optimized algorithm for substring checking of entered passwords against popular password dictionaries</li><li>Implemented integrity-checking during the decryption of the password database</li></ul>"
 tags: ["Qt","C++","Security","Algorithms"]
 image: "img/password-manager.png"
 link: "https://github.com/Preston12321/password-manager"
