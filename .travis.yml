@@ -1,0 +1,20 @@
+language: shell
+branches: master
+os: linux
+dist: bionic
+addons:
+  snaps:
+    - hugo
+script: hugo -D
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  fqdn: prestonlocke.net
+  repo: Preston12321/preston12321.github.io
+  target_branch: master
+  committer_from_gh: true
+  on:
+    branch: master
+  local_dir: public
