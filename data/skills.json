@@ -1,44 +1,55 @@
 [
-    {
-        "grouping": "Languages",
-        "skills": [
-            "C++",
-            "C",
-            "Python",
-            "JavaScript",
-            "Java",
-            "Dart",
-            "TypeScript",
-            "x86 Assembly"
-        ]
-    },
-    {
-        "grouping": "Frameworks",
-        "skills": [
-            "Qt",
-            "Android",
-            "Firebase",
-            "Flutter"
-        ]
-    },
-    {
-        "grouping": "Operating Systems & Tools",
-        "skills": [
-            "Linux",
-            "Windows",
-            "Git",
-            "Bash",
-            "GDB",
-            "Makefile"
-        ]
-    },
-    {
-        "grouping": "Programming Concepts",
-        "skills": [
-            "Data Structures",
-            "Algorithms",
-            "Object Oriented Programming",
-            "Finite-State Automata"
-        ]
-    }
+        {
+                "grouping": "Languages",
+                "skills": [
+                        "C++",
+                        "C",
+                        "Python",
+                        "JavaScript",
+                        "Java",
+                        "x86 Assembly",
+                        "Dart",
+                        "HTML",
+                        "CSS",
+                        "TypeScript",
+                        "C#",
+                        "PHP",
+                        "SQL"
+                ]
+        },
+        {
+                "grouping": "Frameworks & Libraries",
+                "skills": [
+                        "Qt",
+                        "C++ STL",
+                        ".NET",
+                        "Node.js",
+                        "JQuery",
+                        "Firebase",
+                        "Android",
+                        "Flutter"
+                ]
+        },
+        {
+                "grouping": "Operating Systems & Tools",
+                "skills": [
+                        "Linux",
+                        "Windows",
+                        "Git",
+                        "Bash",
+                        "GDB",
+                        "Makefile",
+                        "Webpack",
+                        "Jest Unit Testing"
+                ]
+        },
+        {
+                "grouping": "Programming Concepts",
+                "skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "Object Oriented Programming",
+                        "Finite-State Automata"
+                ]
+        }
 ]
