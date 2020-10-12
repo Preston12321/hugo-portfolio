@@ -1,16 +1,16 @@
 [
-    {
-        "school": "[Macalester College](https://macalester.edu)",
-        "degree": "Bachelor of Arts",
-        "major": "Computer Science",
-        "notes": "3.7 GPA",
-        "range": "2018 - Present"
-    },
-    {
-        "school": "Millsap High School",
-        "degree": "High School Diploma",
-        "major": "Top 10% of Graduating Class",
-        "notes": "4.0 GPA",
-        "range": "2014 - 2018"
-    }
+        {
+                "school": "[Macalester College](https://macalester.edu)",
+                "degree": "Bachelor of Arts",
+                "major": "Computer Science - 3.8 GPA",
+                "notes": "3.7 GPA Overall",
+                "range": "2018 - Present"
+        },
+        {
+                "school": "Millsap High School",
+                "degree": "High School Diploma",
+                "major": "Top 10% of Graduating Class",
+                "notes": "4.0 GPA",
+                "range": "2014 - 2018"
+        }
 ]
