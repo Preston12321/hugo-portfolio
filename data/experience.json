@@ -1,28 +1,28 @@
 [
-        {
-                "role": "Teaching Assistant - Computer Security and Privacy",
-                "company": "Macalester College",
-                "summary": " - Assist students with problem-solving, debugging, and testing code\n - Grade and provide constructive feedback for assignments written in C and Python\n - Maintain familiarity with common exploits that require knowledge of HTML, PHP, SQL, and JavaScript",
-                "tags": [
-                        "C",
-                        "Python",
-                        "HTML",
-                        "PHP",
-                        "SQL",
-                        "Javascript"
-                ],
-                "range": "September 2020 - Present"
-        },
-        {
-                "role": "Teaching Assistant - Computer Systems Organization",
-                "company": "Macalester College",
-                "summary": " - Assist students with problem-solving, debugging, and testing code\n - Grade and provide constructive feedback for assignments written in C and Assembly\n - Develop Bash and Python scripts used in future assignments",
-                "tags": [
-                        "C",
-                        "Python",
-                        "Bash",
-                        "Assembly"
-                ],
-                "range": "September 2019 - May 2020"
-        }
+  {
+    "role": "Teaching Assistant - Computer Security and Privacy",
+    "company": "Macalester College",
+    "summary": " - Assist students with problem-solving, debugging, and testing code\n - Grade and provide constructive feedback for assignments written in C and Python\n - Maintain familiarity with common exploits that require knowledge of HTML, PHP, SQL, and JavaScript",
+    "tags": [
+      "C",
+      "Python",
+      "HTML",
+      "PHP",
+      "SQL",
+      "Javascript"
+    ],
+    "range": "September 2020 - Present"
+  },
+  {
+    "role": "Teaching Assistant - Computer Systems Organization",
+    "company": "Macalester College",
+    "summary": " - Assisted students with problem-solving, debugging, and testing code\n - Graded and provide constructive feedback for assignments written in C and Assembly\n - Developed Bash and Python scripts used in future assignments",
+    "tags": [
+      "C",
+      "Python",
+      "Bash",
+      "Assembly"
+    ],
+    "range": "September 2019 - May 2020"
+  }
 ]
